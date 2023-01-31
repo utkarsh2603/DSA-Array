@@ -21,7 +21,9 @@ public class Array_Implementation
         {
             System.out.print(array[i]+" ");
         }
+        System.out.println();
 
+        System.out.println("size of array is: "+array.length);
 
     }
 }
